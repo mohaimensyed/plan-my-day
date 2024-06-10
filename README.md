@@ -8,8 +8,7 @@ Welcome to the PLAN MY DAY app! This application is designed for the Databricks 
 - [Data Processing](#data-processing)
 - [App Functionality](#app-functionality)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Conclusion](#conclusion)
 
 ## Overview
 
@@ -58,14 +57,6 @@ To use the PLAN MY DAY app, follow these steps:
 2. Run the data processing steps in `data_preprocessor.ipynb` to prepare the dataset.
 3. Execute the `plan_my_day.ipynb` notebook to initialize the app and start generating recommendations.
 
-## Contributing
+## Conclusion
 
-We welcome contributions from the community! If you'd like to contribute to the PLAN MY DAY app, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch with your feature or bug fix.
-3. Submit a pull request for review.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+The PLAN MY DAY app is designed to enhance your travel experience by providing personalized recommendations for tourist attractions. By leveraging advanced AI models and data processing techniques, the app ensures that you get the most out of your day. We hope you find this tool useful and look forward to your feedback and contributions. Thank you for using PLAN MY DAY!

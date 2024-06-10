@@ -16,10 +16,10 @@ The PLAN MY DAY app combines data processing and AI-driven insights to provide p
 
 ## Installation
 
-To run the PLAN MY DAY app, you need to install the required libraries. You can install them using the following command:
+To run the PLAN MY DAY app, you need to install the required libraries and access to Databricks. You can install them using the following command on your databricks python notebook:
 
 ```bash
-pip install langchain langchain_community mlflow databricks-sql databricks-vectorsearch
+%pip install langchain langchain_community mlflow databricks-sql databricks-vectorsearch
 ```
 
 After installing the necessary libraries, restart the Python environment to ensure all changes take effect.
